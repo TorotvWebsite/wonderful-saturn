@@ -9,18 +9,8 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ### Billing
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-
-      ### Privacy
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      ![](https://makersrocket.com/content/images/2021/01/cd04d76efb163173241a14093f46156f3875f639-3270x1004.png)
     content_align: left
     form_position: right
     form_width: fifty
