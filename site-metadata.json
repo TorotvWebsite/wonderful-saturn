@@ -57,7 +57,9 @@
                 "label": "Join for free",
                 "url": "/pricing",
                 "style": "primary",
-                "no_follow": false
+                "no_follow": false,
+                "new_window": true,
+                "icon_position": "center"
             }
         ],
         "has_anncmnt": true,
