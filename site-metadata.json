@@ -95,7 +95,7 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "Twitter",
+                "label": "Makers Rocket",
                 "url": "/blog/category/news",
                 "style": "link"
             },
