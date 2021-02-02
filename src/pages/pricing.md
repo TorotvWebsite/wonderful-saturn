@@ -105,10 +105,10 @@ sections:
     grid_items:
       - type: grid_item
         title: Alex Edmonds
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          My interview was amazing, WE had a some mistakes when we started, yet
+          arav was on board to fix and get them ready for launch. Arav, works
+          really well, he can bring stories to life. 
       - type: grid_item
         title: Sagittis vitae et leo duis ut diam?
         content: >-
