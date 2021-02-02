@@ -103,7 +103,7 @@
             },
             {
                 "type": "action",
-                "label": "Tutorials",
+                "label": "Telegram",
                 "url": "/blog/category/tutorials",
                 "style": "link"
             }
