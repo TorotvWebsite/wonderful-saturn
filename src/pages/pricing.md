@@ -15,17 +15,20 @@ sections:
         title: Free
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### Free
 
-          per month, billed yearly
+          No Credit Card
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+
+
+          Acess to all Interviews, And Stories on maker stories
+
+          Free Newsletter Every Month, and Week
+
+          Rocket Plan
         content_align: left
         actions:
           - type: action
