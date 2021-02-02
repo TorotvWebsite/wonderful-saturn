@@ -47,7 +47,6 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Sponsorship
           - Other
       - type: form_field
         input_type: textarea
