@@ -2,7 +2,7 @@
 title: A Quick Chat with Marc
 subtitle: >-
   Marc joins me for a quick chat, and interview on his early days, the creating
-  of
+  of and so much more!
 date: '2020-05-30'
 author: src/data/team/dianne-ameter.yaml
 categories:
