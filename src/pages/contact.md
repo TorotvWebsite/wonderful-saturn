@@ -65,7 +65,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Get Support
+            label: Talk to a Human?
             url: /general-enquiries
             style: primary
             has_icon: true
