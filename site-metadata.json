@@ -91,7 +91,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "Social",
+        "secondary_nav_title": "News",
         "secondary_nav_links": [
             {
                 "type": "action",
