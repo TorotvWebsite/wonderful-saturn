@@ -47,7 +47,6 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
           - Sponsorship
           - Other
       - type: form_field
