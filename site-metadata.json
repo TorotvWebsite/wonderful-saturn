@@ -54,7 +54,7 @@
             },
             {
                 "type": "action",
-                "label": "Get Started",
+                "label": "Join for free",
                 "url": "/pricing",
                 "style": "primary"
             }
