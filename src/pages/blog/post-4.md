@@ -1,8 +1,8 @@
 ---
 title: 'A Quick Chat with Marc, from WIP'
 subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
-  effectus est, hilara vita amissa est.
+  Marc joins me for a quick chat, and interview on his early days, the creating
+  of
 date: '2020-05-30'
 author: src/data/team/dianne-ameter.yaml
 categories:
