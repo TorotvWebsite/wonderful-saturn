@@ -68,18 +68,22 @@ sections:
         title: Team Lisence
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: >
+          ###
 
-          ### $39
 
-          per month, billed yearly
+          ### Your Team Deserves the Best
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+
+          As part of makersrocket.com, we want to give you a wonderul team
+          exprince. Makers rocket for teams, inculdes Rocket Plan Deals, Maker
+          Rocket Posts, Maker Stories post, and A lot of content needed for you
+          to help your team!
+
+
+
+
+          Send me a email for a estime
         content_align: left
         actions:
           - type: action
