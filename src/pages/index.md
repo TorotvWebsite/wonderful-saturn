@@ -322,7 +322,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: Let’s read some stories
-    subtitle: Blog Feed Section Example
+    subtitle: 'Contact Makers Rocket, to have your product featured here!'
     actions:
       - type: action
         label: View All
