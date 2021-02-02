@@ -59,7 +59,8 @@
                 "style": "primary",
                 "no_follow": false,
                 "new_window": true,
-                "icon_position": "center"
+                "icon_position": "center",
+                "icon": "github"
             }
         ],
         "has_anncmnt": true,
