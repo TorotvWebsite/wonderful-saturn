@@ -3,7 +3,9 @@ title: Pricing
 sections:
   - type: hero_section
     title: Makers Rocket is Free For all*
-    subtitle: Optional hero section subtitle
+    subtitle: >-
+      * we are free for the most part, if you want to donate or help Makers
+      Rocket,
     align: center
     padding_top: large
     padding_bottom: small
