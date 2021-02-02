@@ -15,7 +15,7 @@ excerpt: >-
   Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
   Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
   vitium consuetudo Latina traduceret.
-thumb_image: images/classic/post-4.png
+thumb_image: /images/unique-thyme.jpg
 thumb_image_alt: Post 4 placeholder image
 image: /images/bbc7f175-e4fd-48f2-ae67-c7203c57a0bf.jpg
 image_alt: Post 4 placeholder image
