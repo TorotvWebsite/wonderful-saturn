@@ -62,6 +62,7 @@ sections:
     grid_gap_vert: medium
     grid_gap_horiz: medium
     align: center
+    background_color: primary
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
