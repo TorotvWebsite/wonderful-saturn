@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Helping makers & tech fans kickstart & stay educated.
-    subtitle: Optional hero section subtitle
+    subtitle: ''
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
