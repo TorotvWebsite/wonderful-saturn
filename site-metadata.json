@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "type": "header",
-        "title": "DIY",
+        "title": "Makers Rocket",
         "logo": "images/classic/logo.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
