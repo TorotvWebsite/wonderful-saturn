@@ -59,9 +59,8 @@ sections:
       - type: grid_item
         title: Other Queries
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: |
+          Anything else? Send a mesage!
         content_align: center
         actions:
           - type: action
