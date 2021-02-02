@@ -56,7 +56,8 @@
                 "type": "action",
                 "label": "Join for free",
                 "url": "/pricing",
-                "style": "primary"
+                "style": "primary",
+                "no_follow": false
             }
         ],
         "has_anncmnt": true,
