@@ -1,5 +1,5 @@
 ---
-title: 'A Quick Chat with Marc, from WIP'
+title: A Quick Chat with Marc
 subtitle: >-
   Marc joins me for a quick chat, and interview on his early days, the creating
   of
