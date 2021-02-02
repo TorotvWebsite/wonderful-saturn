@@ -23,7 +23,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Get Support
+            label: Talk to A Human
             url: /general-enquiries
             style: link
             has_icon: true
