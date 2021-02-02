@@ -17,7 +17,7 @@ sections:
         title: Partnering and Sponsorships
         title_align: center
         content: >
-          Do you want to feature your product or site on **Makersrocket, **or
+          Do you want to feature your product or site on Makersrocket, or
           another Optive labs Blog? Do you want to Sponser the newsletter? Write
           A guest post? **Feel free to Send a message!**
         content_align: center
