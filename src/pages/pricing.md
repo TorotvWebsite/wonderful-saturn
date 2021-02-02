@@ -110,7 +110,7 @@ sections:
           arav was on board to fix and get them ready for launch. Arav, works
           really well, he can bring stories to life. 
       - type: grid_item
-        title: Sagittis vitae et leo duis ut diam?
+        title: Sergio Mattei - Makerlog
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
