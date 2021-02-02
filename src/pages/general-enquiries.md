@@ -7,7 +7,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    background_color: none
+    background_color: primary
   - type: form_section
     content: >
       ![](https://makersrocket.com/content/images/2021/01/cd04d76efb163173241a14093f46156f3875f639-3270x1004.png)
