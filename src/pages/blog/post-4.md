@@ -3,7 +3,7 @@ title: A Quick Chat with Marc
 subtitle: >-
   Marc joins me for a quick chat, and interview on his early days, the creating
   of and so much more!
-date: '2020-05-30'
+date: '2021-02-28'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
