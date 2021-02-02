@@ -97,7 +97,7 @@
             },
             {
                 "type": "action",
-                "label": "General",
+                "label": "Makerlog",
                 "url": "/blog/category/general",
                 "style": "link"
             },
