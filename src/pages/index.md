@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: Helping makers & tech fans kickstart & stay educated.
     subtitle: ''
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: ''
     actions:
       - type: action
         label: Try Free
