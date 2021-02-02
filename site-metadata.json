@@ -91,7 +91,7 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "News",
+                "label": "Twitter",
                 "url": "/blog/category/news",
                 "style": "link"
             },
