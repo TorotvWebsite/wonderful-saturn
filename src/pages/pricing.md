@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: Makers Rocket is Free For all*
     subtitle: Optional hero section subtitle
     align: center
     padding_top: large
