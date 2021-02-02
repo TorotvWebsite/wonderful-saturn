@@ -38,9 +38,9 @@ sections:
       - type: grid_item
         title: 'Questions about DMCA, or the site?'
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: >
+          Do you have any copyright claims? Questions, or posts? Feel free to
+          contact me
         content_align: center
         actions:
           - type: action
