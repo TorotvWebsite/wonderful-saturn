@@ -41,18 +41,21 @@ sections:
         title: Donate
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: >+
+          ***
 
-          ### $19
 
-          per month, billed yearly
+          ### Rocket Donate
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+
+          every 1 month
+
+
+
+
+          This plan gives access to the makersrocket.com site, acess to case
+          studies, and early content
+
         content_align: left
         actions:
           - type: action
