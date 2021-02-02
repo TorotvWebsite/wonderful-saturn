@@ -65,7 +65,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - type: grid_item
-        title: Business
+        title: Team Lisence
         subtitle: Optional subtitle
         title_align: left
         content: |-
