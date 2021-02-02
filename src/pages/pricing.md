@@ -101,7 +101,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: What People say About Makers Rocket
     grid_items:
       - type: grid_item
         title: Lorem ipsum dolor sit amet consectetur?
