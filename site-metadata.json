@@ -1,11 +1,11 @@
 {
     "title": "Stackbit DIY Theme",
-    "description": "Helping makers & tech fans kickstart & stay educated.",
-    "layout": "full-width",
+    "description": "",
+    "layout": "boxed",
     "style": "classic",
     "palette": "green",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "type": "header",
         "title": "DIY",
