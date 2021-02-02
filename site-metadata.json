@@ -1,9 +1,9 @@
 {
-    "title": "Stackbit DIY Theme",
-    "description": "",
-    "layout": "boxed",
+    "title": "How Marc Built WIP, and Betalist",
+    "description": "Marc joins me for a quick chat, and interview on his early days, the creating of and so much more!",
+    "layout": "full-width",
     "style": "classic",
-    "palette": "green",
+    "palette": "red",
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
@@ -91,23 +91,23 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "Social",
+        "secondary_nav_title": "News",
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "Twitter",
+                "label": "Makers Rocket",
                 "url": "/blog/category/news",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "Makerlog",
+                "label": "Rocket Stories",
                 "url": "/blog/category/general",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "Telegram",
+                "label": "Rocket Tech and Gaming",
                 "url": "/blog/category/tutorials",
                 "style": "link"
             }

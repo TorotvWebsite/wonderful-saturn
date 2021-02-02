@@ -14,14 +14,14 @@ sections:
         label: Learn More
         url: /features
         style: secondary
-    image: /images/amico.png
+    image: /images/cuate.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: none
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
@@ -62,6 +62,7 @@ sections:
     grid_gap_vert: medium
     grid_gap_horiz: medium
     align: center
+    background_color: primary
   - type: features_section
     title: Features Section
     subtitle: Features Section Example

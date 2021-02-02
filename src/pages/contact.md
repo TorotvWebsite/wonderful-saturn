@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Get in touch
+    title: Talk to a Human
     subtitle: >-
       Have a question? Send us a note using the form below and we will be in
       touch soon.
@@ -16,13 +16,14 @@ sections:
       - type: grid_item
         title: Partnering and Sponsorships
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: >
+          Do you want to feature your product or site on Makersrocket, or
+          another Optive labs Blog? Do you want to Sponser the newsletter? Write
+          A guest post? **Feel free to Send a message!**
         content_align: center
         actions:
           - type: action
-            label: Get Support
+            label: Talk to A Human
             url: /general-enquiries
             style: link
             has_icon: true
@@ -35,15 +36,15 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        title: Help & Support
+        title: 'Questions about DMCA, or the site?'
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: >
+          Do you have any copyright claims? Questions, or posts? Feel free to
+          contact me
         content_align: center
         actions:
           - type: action
-            label: Get Support
+            label: Talk to a Human
             url: /general-enquiries
             style: secondary
             has_icon: true
@@ -58,20 +59,19 @@ sections:
       - type: grid_item
         title: Other Queries
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: |
+          Anything else? Send a mesage!
         content_align: center
         actions:
           - type: action
-            label: Get Support
+            label: Talk to a Human?
             url: /general-enquiries
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/classic/icon-3.svg
+        image: /images/classic/post-3.png
         image_alt: Other queries icon
         image_position: top
         image_align: center
