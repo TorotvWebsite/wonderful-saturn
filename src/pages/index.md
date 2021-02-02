@@ -14,7 +14,7 @@ sections:
         label: Learn More
         url: /features
         style: secondary
-    image: /images/amico.png
+    image: /images/cuate.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
