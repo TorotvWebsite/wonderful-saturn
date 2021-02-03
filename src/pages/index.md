@@ -48,7 +48,6 @@ sections:
         image_alt: Gridsome logo
         image_align: center
       - type: grid_item
-        image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
     grid_cols: four
