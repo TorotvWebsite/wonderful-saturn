@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: Image Grid
+    title: Hey
     subtitle: Grid Section Example
     grid_items:
       - type: grid_item
