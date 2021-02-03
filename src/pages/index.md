@@ -30,15 +30,12 @@ sections:
         image_alt: Contentful logo
         image_align: center
       - type: grid_item
-        image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
       - type: grid_item
-        image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
       - type: grid_item
-        image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
       - type: grid_item
