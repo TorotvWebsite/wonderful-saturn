@@ -47,7 +47,6 @@ sections:
         image_alt: Next.js logo
         image_align: center
       - type: grid_item
-        image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
       - type: grid_item
