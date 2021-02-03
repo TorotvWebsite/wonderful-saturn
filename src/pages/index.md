@@ -39,7 +39,6 @@ sections:
         image_alt: Sanity logo
         image_align: center
       - type: grid_item
-        image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center
       - type: grid_item
