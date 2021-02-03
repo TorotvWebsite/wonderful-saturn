@@ -218,7 +218,7 @@ sections:
 
 
           **Ankit Kumar,** *App Developer, Studio*
-        image: images/hanson-deck.png
+        image: /images/miles-tone.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
