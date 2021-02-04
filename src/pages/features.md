@@ -8,7 +8,7 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: Products can Be hard
+        title: Product's can be Stessful
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare.'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
