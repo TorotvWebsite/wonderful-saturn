@@ -22,8 +22,6 @@ image_alt: Post 4 placeholder image
 image_position: right
 template: post
 ---
-
-
 You've probably heard of wip or BetaList, especially if you're a founder or maker. You've probably also heard of Marc Köhlbrugge, the founder of both WIP and beta list. We already know Marc's Product story.
 
 Yet, there's something's that We've never got to cover, how did marc actually build Wip and betalist, and what's the story way before his big break? Here's the full story, From start to end.
