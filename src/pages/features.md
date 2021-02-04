@@ -10,10 +10,16 @@ sections:
       - type: feature
         title: Product's can be Stessful
         subtitle: Mental Health Impacts almost All Makers
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Building products can be stressful, deadlines, customers, no traffic.
+          Most makers get really stressed. Myself included. You see other people
+          building products, and having no trouble.
+
+
+
+
+          ###### Mental Health and Diabetes Really Affected
+          me&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right
