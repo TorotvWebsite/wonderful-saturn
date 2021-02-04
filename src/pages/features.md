@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Rocket Mentoring and Vailadte/
-    subtitle: Features Page Demo
+    subtitle: '"A Rocket a Day, Keeps the Bad Customer away"'
     background_color: primary
   - type: features_section
     features:
