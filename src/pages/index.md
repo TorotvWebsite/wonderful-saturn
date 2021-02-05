@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Helping makers & tech fans kickstart & stay educated.
+    title: Helping makers & tech fans kickstart & stay educated
     subtitle: ''
     content: ''
     actions:
