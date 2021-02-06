@@ -24,9 +24,7 @@ sections:
     background_color: none
   - type: blog_feed_section
     title: Let’s read some stories
-    subtitle: >-
-      Sell any digital product in under a minute and keep 99% of what you make
-      after payment processing fees. With, Fl
+    subtitle: "Sell any digital product in under a minute and keep 99% of what you make after payment processing fees. With,\_flurly.com."
     actions:
       - type: action
         label: View All
