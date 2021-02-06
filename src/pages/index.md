@@ -285,7 +285,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Mentors are Improant
+    title: We have everything You need to Kickstart and Learm
     content: |
       This is why at makes rocket, we offer Direct to Direct Mentoring service!
     actions:
