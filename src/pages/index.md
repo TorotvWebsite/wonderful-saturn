@@ -253,12 +253,12 @@ sections:
         image_position: left
         image_width: twenty-five
       - type: grid_item
-        content: >-
+        content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          *Alex Edmonds*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
