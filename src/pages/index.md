@@ -26,7 +26,7 @@ sections:
     title: Let’s read some stories
     subtitle: >-
       Sell any digital product in under a minute and keep 99% of what you make
-      after payment processing fees.
+      after payment processing fees. With, Fl
     actions:
       - type: action
         label: View All
