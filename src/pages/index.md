@@ -292,7 +292,7 @@ sections:
       free.
     actions:
       - type: action
-        label: Learn More
+        label: Join our Newsletter!
         url: /features
         style: secondary
     actions_position: right
