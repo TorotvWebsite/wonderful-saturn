@@ -45,7 +45,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: Hey
+    title: ''
     subtitle: ''
     grid_items:
       - type: grid_item
@@ -143,10 +143,8 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        title: '“Makers Rocket, is really nice"'
+        subtitle: 'Alex Edmonds, Founder of Building a Indie Bussiness Podcast'
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
