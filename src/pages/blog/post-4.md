@@ -1,8 +1,8 @@
 ---
 title: A Quick Chat with Marc
 subtitle: >-
-  Marc joins me for a quick chat, and interview on his early days, the creating
-  of and so much more!
+  Marc joins me for a quick chat, and interview on his early days, the making of
+  and so much more!
 date: '2021-02-02'
 author: src/data/team/dianne-ameter.yaml
 categories:
