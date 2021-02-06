@@ -286,8 +286,10 @@ sections:
     background_color: secondary
   - type: cta_section
     title: We have everything You need to Kickstart and Learm
-    content: |
-      This is why at makes rocket, we offer Direct to Direct Mentoring service!
+    content: >
+      Makers Rocket offers, everything 1:1, from mentoring, to interview, and
+      stories from your favorite makers, and rising makers, every week, all
+      free.
     actions:
       - type: action
         label: Learn More
