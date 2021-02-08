@@ -112,7 +112,7 @@ Interestingly enough, many people tell me that's one of the things they like abo
 
 # *We ask every person, what is their most favorite artist or band?*
 
-That's a tough question. I'm leaning towards Eminem. I really respect his work ethic, creativity, and his courage to be himself. That said, there are many artists I enjoy listening to and it just depends on my mood. 
+That's a tough question. I'm leaning towards Eminem. I really respect his work ethic, creativity, and his courage to be himself. That said, there are many artists I enjoy listening to and it just depends on my mood.
 
 # *You follow 0 people on Twitter, how do you consume Twitter content? Is there an account we don’t know of or are you using lists?*
 
